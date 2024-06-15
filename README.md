@@ -1,5 +1,5 @@
 ### Hi there ^_^
-
+[![HitCount](https://hits.dwyl.com/yashg41/yashg41.svg?style=flat-square)](http://hits.dwyl.com/yashg41/yashg41)
 <div align="center">
   <img src="giphy.webp" width="512" />
 </div>
