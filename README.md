@@ -1,7 +1,8 @@
 ### Hi there ^_^
 
-<img src="giphy.webp" width="512" >
-# Yash Gupta
+<div align="center">
+  <img src="giphy.webp" width="512" />
+</div>
 I am Yash from India, I like data and computation, hence the pursuit to be a data scientist.
 
 ## Skills and Experience
