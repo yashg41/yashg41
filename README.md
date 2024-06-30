@@ -3,7 +3,7 @@
 <div align="center">
   <img src="giphy.webp" width="512" />
 </div>
-I am Yash from India, I like data and computation, hence the pursuit to be a data scientist.
+I am Yash, I like data and computation, hence the pursuit to be a data scientist.
 
 ## Skills and Experience
 * ⚛   Python, R, MATLAB, C++, LaTeX, Excel
